@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Chandra Images</title>
+ <description>Images from the Chandra X-Ray Space Telescope</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/chandra_images.rss" />
+ <language>en-us</language>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>Huge Rings Around a Black Hole</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/huge-rings-around-a-black-hole.html</link>
+ <description>Astronomers spotted an unusual set of rings in X-rays around a black hole with a companion star. These rings are created by light echoes, a phenomenon similar to echoes on Earth from sound waves bouncing off hard surfaces.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/v404cyg.jpg?itok=fCgEFWHg" length="6921948" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/huge-rings-around-a-black-hole.html</guid>
+ <pubDate>Thu, 05 Aug 2021 10:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Chandra Turns Up the Heat in the Milky Way Center</title>
+ <link>http://www.nasa.gov/image-feature/chandra-turns-up-the-heat-in-the-milky-way-center</link>
+ <description>This 2004 image was produced by combining a dozen Chandra observations made of a 130 light-year region in the center of the Milky Way.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/51189669328_bf2f1fc18f_o.jpeg?itok=t830_yGU" length="1812287" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/chandra-turns-up-the-heat-in-the-milky-way-center</guid>
+ <pubDate>Thu, 01 Jul 2021 08:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>The Give and Take of Mega-Flares From Stars</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/the-give-and-take-of-mega-flares-from-stars.html</link>
+ <description>These two images contain some of the thousands of stars from a new survey by NASA&#039;s Chandra X-ray Observatory.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/superflares.jpg?itok=qZGKX8K0" length="11352371" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/the-give-and-take-of-mega-flares-from-stars.html</guid>
+ <pubDate>Wed, 16 Jun 2021 12:10 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Magnetized Threads Weave Spectacular Galactic Tapestry</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/magnetized-threads-weave-spectacular-galactic-tapestry.html</link>
+ <description>Threads of superheated gas and magnetic fields are weaving a tapestry of energy at the center of the Milky Way galaxy. A new image of this new cosmic masterpiece was made using a giant mosaic of data from NASA&#039;s Chandra X-ray Observatory and the MeerKAT radio telescope in South Africa.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/gcenter-2021.jpg?itok=16-UWZNf" length="6473097" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/magnetized-threads-weave-spectacular-galactic-tapestry.html</guid>
+ <pubDate>Thu, 27 May 2021 08:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Bubbles with Titanium Trigger Titanic Explosions</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/bubbles-with-titanium-trigger-titanic-explosions.html</link>
+ <description>Scientists have found fragments of titanium blasting out of a famous supernova. This discovery, made with NASA’s Chandra X-ray Observatory, could be a major step in pinpointing exactly how some giant stars explode.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/casa_crunched_0.jpg?itok=1OMRjo9I" length="5478830" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/bubbles-with-titanium-trigger-titanic-explosions.html</guid>
+ <pubDate>Wed, 21 Apr 2021 10:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Sometimes Black Holes Are Prettier in Pink</title>
+ <link>http://www.nasa.gov/image-feature/sometimes-black-holes-are-prettier-in-pink</link>
+ <description>This image, taken by the Chandra X-Ray Observatory in 2012, shows an extraordinary outburst from a black hole.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/6986578034_2ff89714dd_o.jpeg?itok=-WKcH6b9" length="309471" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/sometimes-black-holes-are-prettier-in-pink</guid>
+ <pubDate>Wed, 14 Apr 2021 08:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>First X-rays from Uranus Discovered</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/first-x-rays-from-uranus-discovered.html</link>
+ <description>​Astronomers have detected X-rays from Uranus for the first time, using NASA’s Chandra X-ray Observatory. This result may help scientists learn more about this enigmatic ice giant planet in our solar system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/uranus.jpg?itok=102j0nqM" length="1606093" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/first-x-rays-from-uranus-discovered.html</guid>
+ <pubDate>Wed, 31 Mar 2021 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Gigantic Jet Spied from Black Hole in Early Universe</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/gigantic-jet-spied-from-black-hole-in-early-universe.html</link>
+ <description>Astronomers have discovered evidence for an extraordinarily long jet of particles coming from a supermassive black hole in the early universe, using NASA’s Chandra X-ray Observatory.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jet.jpg?itok=rY9AcbeK" length="6723855" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/gigantic-jet-spied-from-black-hole-in-early-universe.html</guid>
+ <pubDate>Tue, 09 Mar 2021 09:44 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Reclusive Neutron Star May Have Been Found in Famous Supernova</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/reclusive-neutron-star-may-have-been-found-in-famous-supernova.html</link>
+ <description>Astronomers now have evidence from two X-ray telescopes (Chandra and NuSTAR) for a key component of a famous supernova remnant. This latest study shows that a &quot;pulsar wind nebula&quot; created by such a neutron star may be present.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/pwn1987a.jpg?itok=qZV0qo-i" length="1548366" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/reclusive-neutron-star-may-have-been-found-in-famous-supernova.html</guid>
+ <pubDate>Mon, 22 Feb 2021 19:01 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+ <item> <title>Rare Blast’s Remains Discovered in Milky Way Center</title>
+ <link>http://www.nasa.gov/mission_pages/chandra/images/rare-blast-s-remains-discovered-in-milky-way-center.html</link>
+ <description>Astronomers may have found our galaxy’s first example of an unusual kind of stellar explosion. This discovery, made with NASA’s Chandra X-ray Observatory, adds to the understanding of how some stars shatter and seed the universe with elements critical for life on Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/sgrae.jpg?itok=u3DpP6VW" length="2411806" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/chandra/images/rare-blast-s-remains-discovered-in-milky-way-center.html</guid>
+ <pubDate>Mon, 08 Feb 2021 10:41 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/chandra_images.rss">Chandra Images</source>
+</item>
+</channel>
+</rss>
